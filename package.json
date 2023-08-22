@@ -15,7 +15,7 @@
     "details",
     "information"
   ],
-  "author": "Madhur Taneja",
+  "author": "Vinayak Jaimini",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
